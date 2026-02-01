@@ -1,0 +1,19 @@
+torch
+torchvision
+torchaudio
+opencv-python
+pillow
+numpy
+scikit-image
+tqdm
+transformers<5
+safetensors
+einops
+
+# Legacy export deps (kept for compatibility; not required for BiRefNet).
+gdown
+pyyaml
+easydict
+timm
+kornia
+

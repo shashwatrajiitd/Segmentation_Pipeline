@@ -1,0 +1,11 @@
+open_clip_torch
+torch
+torchvision
+opencv-python
+pillow
+numpy
+pydantic
+tqdm
+python-dotenv
+requests
+pytest

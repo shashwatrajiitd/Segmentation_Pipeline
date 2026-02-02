@@ -34,8 +34,14 @@ bg_removal/output/*.jpeg
 bg_removal/output/*.webp
 
 # Large model files (add back if you use Git LFS or host elsewhere)
-# bg_removal/models/*.pth
-# bg_removal/models/*.torchscript
+bg_removal/models/*.pth
+bg_removal/models/*.torchscript
+
+# Pipeline handoff / outputs / sample inputs
+handoff/
+final_output/
+raw_images/
+pre_classifier/output/
 
 # IDE
 .idea/
